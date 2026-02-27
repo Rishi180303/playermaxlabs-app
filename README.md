@@ -17,12 +17,7 @@ This repo currently has the opening screen UI implemented (Expo app starter + cu
 - React Native
 - Expo
 - TypeScript
-- Outfit font
 
-## Design Tokens (current)
-
-- Background: `#080B18`
-- Accent green: `#B4F469`
 
 ## Getting Started
 
